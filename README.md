@@ -15,3 +15,4 @@
 
 
 Проведен первичный анализ данных (EDA).
+![пропуски в датасете](https://github.com/AnyaMankova/emco/blob/main/images/nullst.png)
