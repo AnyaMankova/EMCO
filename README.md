@@ -21,7 +21,8 @@
 
  2) Для каждого атрибута данных проведем анализ.
   Базовым методом проверки данных на нормальность распределения является гистограмма плотности распределения
-  ![гистограмма](https://github.com/AnyaMankova/emco/blob/main/images/avg_weight/aw_hist.png, https://github.com/AnyaMankova/emco/blob/main/images/avg_height/ah_hist.png)
+ ![гистограмма](https://github.com/AnyaMankova/emco/blob/main/images/avg_weight/aw_hist.png)
+ ![гистограмма](https://github.com/AnyaMankova/emco/blob/main/images/avg_height/ah_hist.png)
   
   
   
