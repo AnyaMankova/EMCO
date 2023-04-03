@@ -1,4 +1,5 @@
 # emco
+![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 
 Представлен датасет, отражающий работу самосвалов за 11 месяцев 2022 года со следующими данными: 
 - дата смены
