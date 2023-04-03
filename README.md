@@ -1,5 +1,6 @@
 # emco
-![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 
 Представлен датасет, отражающий работу самосвалов за 11 месяцев 2022 года со следующими данными: 
 - дата смены
@@ -16,7 +17,8 @@
 
 
 <p>#Проведен первичный анализ данных (EDA).
-
+Общее описание датасета: 
+ 
 1) Выявлено наличие пропусков данных в датасете. Общее количество пропусков равно 5 881.
 ![пропуски в датасете](https://github.com/AnyaMankova/emco/blob/main/images/nullst.png)
 На рисунке по оси x указаны строки нашего датасета, белые линии на нем - пропуски данных.
@@ -30,7 +32,7 @@
  Наимболее распространенным методом статистического анализа является тест Шапиро-Уилка. Вместе с тем, наша выборка содержит более 5 000 записей, в этом случае, мы проведем тест по критерию Лиллиефорса, который как раз предназначен для больших выборок.
 
  
-
+![пропуски в датасете](https://github.com/AnyaMankova/emco/blob/12a679c9b7072ed9a89fabe5e61ee0305a5658c2/EDA.ipynb)
  
   
   
